@@ -1,4 +1,4 @@
-# Ex-11-Huffman-Coding
+# Ex-11 Huffman-Coding
 ## Aim
 To implement Huffman coding to compress the data using Python.
 
@@ -25,7 +25,7 @@ print the characters and its huffmancode
 
 ### Get the input String
 ```
-string = 'Hariharan'
+string = 'Mounesh'
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
         self.left = left
@@ -92,9 +92,7 @@ for (char, frequency) in freq:
 
 
 ## Output:
-
-![image](https://github.com/user-attachments/assets/4acc3ae5-112d-4221-97e4-67f010c8b1c1)
-
+![image](https://github.com/user-attachments/assets/53b1ed3c-500f-4a7a-b65c-6c2bfa597ff6)
 
 
 ## Result
